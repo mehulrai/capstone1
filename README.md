@@ -1,4 +1,4 @@
-# capstone1
+# SpringBoard Capstone Project1
 
 ## Project Name: New York City Taxi Fare Prediction
 
