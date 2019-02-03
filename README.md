@@ -6,7 +6,9 @@
 
 Data science Hypothesis(es)/solutions considering: One or multiple angles to consider solving this problem with data science. This could be as many as 10+ questions for what you are considering to solve through analysis, visualizations, and machine learning
 
-1)
+1) Density of pickups & Drop offs
+2) Fare Amount predictions
+3) 
 
 Data sets to be used: API --> kaggle competitions download -c new-york-city-taxi-fare-prediction
 
