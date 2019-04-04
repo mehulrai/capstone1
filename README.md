@@ -18,3 +18,9 @@ Potential business cases relative to project: how would this help businesses out
 Potential stakeholders who would find this interesting: Ride hailing companies
 
 Potential places to share your results post project (world, website)
+
+What is the problem you want to solve?
+Who is your client and why do they care about this problem? In other words, what will your client do or decide based on your analysis that they wouldn’t have done otherwise?
+What data are you using? How will you acquire the data?
+Briefly outline how you’ll solve this problem. Your approach may change later, but this is a good first step to get you thinking about a method and solution.
+What are your deliverables? Typically, this includes code, a paper, or a slide deck.
