@@ -8,11 +8,10 @@ Data science Hypothesis(es)/solutions considering: One or multiple angles to con
 
 1) Density of pickups & Drop offs
 2) Fare Amount predictions
-3) 
 
 Data sets to be used: API --> kaggle competitions download -c new-york-city-taxi-fare-prediction
+Link to the Kaggle Competition --> https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 
-Data dictionaries to describe the data types you're using: write these out in markdown as tables
 Potential business cases relative to project: how would this help businesses out to make money or save money or improve accuracy or make better products
 
 Potential stakeholders who would find this interesting: Ride hailing companies
