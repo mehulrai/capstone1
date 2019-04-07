@@ -28,5 +28,26 @@ What are your deliverables? Code, & a slide deck.
 
 Briefly outline how you’ll solve this problem. Your approach may change later, but this is a good first step to get you thinking about a method and solution.
 
+1) Get the data, create the work space. Do we need to create an isolated (virtualenv)
+environment in Python? 
+2) Look at the data structure: 
+like top five rows, bottom five rows, 
+get the description of the data .info(), 
+get the summary of the numerical attributes .describe(), 
+plot the histogram for the entire project data using .hist()
+look for Correlations.corr()
+3) Create a Test Data Set and Training Data set: 80/20 rule
+4) 
+5) Prepare the data for ML Algos
+Data Cleaning
+6) Explore many different models and combine them
+7) Fine-tune your models
+8) Present the solution and repeat step 6-7 till you get better results
+
+Couple of factors which can affect my pricing/estimates:
+Min/hr -- $15/hr
+Congestion pricing - Same as Singapore (Tolls)
+City bikes - Electric bikes share, car, electric scooters, taxi 
+
 Data dictionaries to describe the data types you're using: write these out in markdown as tables
 
