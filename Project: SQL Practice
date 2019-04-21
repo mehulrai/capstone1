@@ -1,5 +1,4 @@
-The data you need is in the "country_club" database. This database
-contains 3 tables:
+The data you need is in the "country_club" database. This database contains 3 tables:
     i) the "Bookings" table,
     ii) the "Facilities" table, and
     iii) the "Members" table.
@@ -75,7 +74,6 @@ HAVING Cost >30
 ORDER BY Cost DESC 
 
 /* Q9: This time, produce the same result as in Q8, but using a subquery. */
-
 SELECT G.name AS Facility, M.surname AS Member, G.cost AS Cost
 FROM country_club.Members M
 JOIN (
