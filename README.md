@@ -45,5 +45,5 @@ Briefly outline how you’ll solve this problem. Your approach may change later,
    - Congestion pricing - Same as Singapore (Tolls)
    - City bikes - Electric bikes share, car, electric scooters, taxi 
 
-Data dictionaries to describe the data types you're using: write these out in markdown as tables
+Data dictionaries to describe the data types you're using: 
 
